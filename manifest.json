@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T14:47:35.3656875+07:00",
+  "generated_at": "2026-09-09T15:56:15.7223012+07:00",
   "source_root": "C:\\Users\\CROSSIAN\\.codex\\skills",
-  "included_count": 98,
+  "included_count": 102,
   "included_skills": [
     {
       "name": ".system",
@@ -334,6 +334,12 @@
       "skill_md_sha256": "4934EF1A0DA37037208616001A3ECC92F5544763936F3B052FE152F13DC6894A"
     },
     {
+      "name": "next-best-practices",
+      "path": "skills/next-best-practices",
+      "description": "---",
+      "skill_md_sha256": "AF0BEA5EF530616C757B9A62EA44B45E6BDC3721BDAA61BCBBDC6B109385C04D"
+    },
+    {
       "name": "nextjs-developer",
       "path": "skills/nextjs-developer",
       "description": "---",
@@ -508,6 +514,12 @@
       "skill_md_sha256": "C1D78890F232E69448EA7BADBE82DB3F63F3DA579444A951DD9BEC1BD9B4D5E5"
     },
     {
+      "name": "storefront-ui-expert",
+      "path": "skills/storefront-ui-expert",
+      "description": "---",
+      "skill_md_sha256": "1B84E4D7ABB99B2ED0C0E9E03715EEBD74F86051B26A66652442C436E00BDDF8"
+    },
+    {
       "name": "stos-product-ux",
       "path": "skills/stos-product-ux",
       "description": "---",
@@ -518,6 +530,12 @@
       "path": "skills/swift-expert",
       "description": "---",
       "skill_md_sha256": "AF18A3963CCC67422651560AA4C3A52CACB200864263426A9B6238C01EABEA91"
+    },
+    {
+      "name": "tailwind-design-system",
+      "path": "skills/tailwind-design-system",
+      "description": "---",
+      "skill_md_sha256": "D9CA91B25E79861082A1AF3DD914B0DD88B659D33E841CBAE9C949043D82DD1A"
     },
     {
       "name": "terraform-engineer",
@@ -566,6 +584,12 @@
       "path": "skills/using-agent-skills",
       "description": "---",
       "skill_md_sha256": "30787EF2C77BF1A4729FFFED0F6523BA6FCBE81BDC436B36371B78C21394D3C3"
+    },
+    {
+      "name": "vue-best-practices",
+      "path": "skills/vue-best-practices",
+      "description": "---",
+      "skill_md_sha256": "D4CD1DFF361B4985F4A8B1EA23F128597178701E75956E54AD76836D31ABBAB7"
     },
     {
       "name": "vue-expert",

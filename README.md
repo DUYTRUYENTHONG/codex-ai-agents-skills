@@ -1,5 +1,5 @@
 # Codex AI Agents Skills
-Package generated on 2026-09-09 14:47:35
+Package generated on 2026-09-09 15:56:35
 
 ## Included skills
 - .system
@@ -57,6 +57,7 @@ Package generated on 2026-09-09 14:47:35
 - monitoring-expert
 - navigators
 - nestjs-expert
+- next-best-practices
 - nextjs-developer
 - observability-and-instrumentation
 - pandas-pro
@@ -86,8 +87,10 @@ Package generated on 2026-09-09 14:47:35
 - spring-boot-engineer
 - sql-pro
 - sre-engineer
+- storefront-ui-expert
 - stos-product-ux
 - swift-expert
+- tailwind-design-system
 - terraform-engineer
 - test-driven-development
 - test-master
@@ -96,13 +99,13 @@ Package generated on 2026-09-09 14:47:35
 - ui-ux-expert
 - ui-ux-pro-max
 - using-agent-skills
+- vue-best-practices
 - vue-expert
 - vue-expert-js
 - websocket-engineer
 - wordpress-pro
 
-Total: 98
+Total: 102
 Source: `C:\Users\CROSSIAN\.codex\skills`
 
 .system and standard skills are included as source of truth for distribution.
-
