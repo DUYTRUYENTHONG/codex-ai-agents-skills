@@ -1,7 +1,8 @@
 # Codex AI Agents Skills
-Package generated on 2026-09-09 14:41:08
+Package generated on 2026-09-09 14:47:35
 
 ## Included skills
+- .system
 - angular-architect
 - api-and-interface-design
 - api-designer
@@ -100,8 +101,8 @@ Package generated on 2026-09-09 14:41:08
 - websocket-engineer
 - wordpress-pro
 
-Total: 97
-Source: ``C:\Users\CROSSIAN\.codex\skills``
+Total: 98
+Source: `C:\Users\CROSSIAN\.codex\skills`
 
-`.system` intentionally excluded to keep repository focused on user-facing agent skills.
+.system and standard skills are included as source of truth for distribution.
 

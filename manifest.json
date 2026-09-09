@@ -1,8 +1,14 @@
 {
-  "generated_at": "2026-09-09T14:41:08.9106181+07:00",
+  "generated_at": "2026-09-09T14:47:35.3656875+07:00",
   "source_root": "C:\\Users\\CROSSIAN\\.codex\\skills",
-  "included_count": 97,
+  "included_count": 98,
   "included_skills": [
+    {
+      "name": ".system",
+      "path": "skills/.system",
+      "description": "---",
+      "skill_md_sha256": "---"
+    },
     {
       "name": "angular-architect",
       "path": "skills/angular-architect",
