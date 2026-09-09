@@ -1,0 +1,5 @@
+interface:
+  display_name: "Navigators"
+  short_description: "Audit Duy scope before prompts and avoid duplicate work"
+  default_prompt: "Use \$navigators to audit current DuyTruyenThong state before deciding whether a new prompt is needed."
+

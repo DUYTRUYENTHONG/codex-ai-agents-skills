@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Check Agent"
+  short_description: "Root-cause QA gates for agent releases"
+  default_prompt: "Use $qa-check-agent to run a root-cause QA check before deploy."

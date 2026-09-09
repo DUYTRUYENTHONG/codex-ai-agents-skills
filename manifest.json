@@ -1,0 +1,589 @@
+{
+  "generated_at": "2026-09-09T14:41:08.9106181+07:00",
+  "source_root": "C:\\Users\\CROSSIAN\\.codex\\skills",
+  "included_count": 97,
+  "included_skills": [
+    {
+      "name": "angular-architect",
+      "path": "skills/angular-architect",
+      "description": "---",
+      "skill_md_sha256": "88E08754472511ACF3A0D51E7B2F4C23F5565C6A55BCEBBA35D09EE2D863BA85"
+    },
+    {
+      "name": "api-and-interface-design",
+      "path": "skills/api-and-interface-design",
+      "description": "---",
+      "skill_md_sha256": "5DAFD0C44A3AABF11CAE5BCB34F6FCC24DFA5C01BA6E0D3176BCE997F4D68BC8"
+    },
+    {
+      "name": "api-designer",
+      "path": "skills/api-designer",
+      "description": "---",
+      "skill_md_sha256": "DC3F8FB6C1C73418B7FFE3142C2CBE1E24143CC8D93F05D57B1640AE326B1C32"
+    },
+    {
+      "name": "architecture-designer",
+      "path": "skills/architecture-designer",
+      "description": "---",
+      "skill_md_sha256": "7DB398FBA9AF6A1CB46B68A7B1C3E8E3E1366CFE62BB20ABFDAFF5C250B36E40"
+    },
+    {
+      "name": "atlassian-mcp",
+      "path": "skills/atlassian-mcp",
+      "description": "---",
+      "skill_md_sha256": "27C635007DE5B7A2FF7EC5C4B7B6C5705DC61EEC508A798B307E93DE57CD46E0"
+    },
+    {
+      "name": "browser-testing-with-devtools",
+      "path": "skills/browser-testing-with-devtools",
+      "description": "---",
+      "skill_md_sha256": "4E3AACD6A380CD25BC6C2D67FDD1C926A9B22535B8A62109ECD33CEFD909E3D9"
+    },
+    {
+      "name": "chaos-engineer",
+      "path": "skills/chaos-engineer",
+      "description": "---",
+      "skill_md_sha256": "85F0548789894FADDC43997D7E10C4A5DCD65F5A3046D7C41ACB9A4503BE66EE"
+    },
+    {
+      "name": "ci-cd-and-automation",
+      "path": "skills/ci-cd-and-automation",
+      "description": "---",
+      "skill_md_sha256": "A6ED8ED56456B01FF8314C44EEFC69897D9905AE4E06BB2B7036286EFB79B5F0"
+    },
+    {
+      "name": "cli-developer",
+      "path": "skills/cli-developer",
+      "description": "---",
+      "skill_md_sha256": "3FA5B83E2457BE606F370FD6151CA90983BDF72E005BFE73551EF8FAC683672A"
+    },
+    {
+      "name": "cloud-architect",
+      "path": "skills/cloud-architect",
+      "description": "---",
+      "skill_md_sha256": "C988097282661F88E2BE436428CB6758E7BE0E9294E9D41BD4EC5F2E1D04EBC2"
+    },
+    {
+      "name": "code-documenter",
+      "path": "skills/code-documenter",
+      "description": "---",
+      "skill_md_sha256": "2D91B9634B17DAF59E1AAE24CF51A09C9B986AE3D4FDEDEB8D93B1DCAA97D97E"
+    },
+    {
+      "name": "code-review-and-quality",
+      "path": "skills/code-review-and-quality",
+      "description": "---",
+      "skill_md_sha256": "8F3CABCA581BBF7CB5F0ADD3F7454E7A4523F9D4353A6A4A217E6FA515309612"
+    },
+    {
+      "name": "code-reviewer",
+      "path": "skills/code-reviewer",
+      "description": "---",
+      "skill_md_sha256": "86B4FC6669EA82834F433617DD617ED1011CF7AF5F3855C8D759B95690AC1E2A"
+    },
+    {
+      "name": "code-simplification",
+      "path": "skills/code-simplification",
+      "description": "---",
+      "skill_md_sha256": "F0C5ED754057EB0C1E027E2587F59DE816651FEB5E837242296C43EA21CF621D"
+    },
+    {
+      "name": "constraint-driven-development",
+      "path": "skills/constraint-driven-development",
+      "description": "---",
+      "skill_md_sha256": "06479D4305F286D23CFB99F5DC85695896785269664E1F6A8D800E3B71E70C10"
+    },
+    {
+      "name": "context-engineering",
+      "path": "skills/context-engineering",
+      "description": "---",
+      "skill_md_sha256": "1392005054EFB0A5C9CBBD83811F95AC30D34E5228A1F6837BAF59FB7D588017"
+    },
+    {
+      "name": "cpp-pro",
+      "path": "skills/cpp-pro",
+      "description": "---",
+      "skill_md_sha256": "B28377CF1470C86AC5079A7A36780EF8ADC0201406891AD32C8684D250BD4FD0"
+    },
+    {
+      "name": "csharp-developer",
+      "path": "skills/csharp-developer",
+      "description": "---",
+      "skill_md_sha256": "1A288F5DFF8A627B0DE3000EC089BC98A06E99F38E4531F43AB453CBF9209423"
+    },
+    {
+      "name": "database-optimizer",
+      "path": "skills/database-optimizer",
+      "description": "---",
+      "skill_md_sha256": "C6DF5BCD1B623EE9F76D43C7BCBFCD7B8CDD187ECE43C95748F5EDC2C5AED83B"
+    },
+    {
+      "name": "debugging-and-error-recovery",
+      "path": "skills/debugging-and-error-recovery",
+      "description": "---",
+      "skill_md_sha256": "21F3960F5D7AE2CC95C40896545004DBBCBBD752EA65FC2D53962554D4174220"
+    },
+    {
+      "name": "debugging-wizard",
+      "path": "skills/debugging-wizard",
+      "description": "---",
+      "skill_md_sha256": "09D4ADC6C5CF2DC746C1D96447FB3831BE53113C7B0DC0C294DC81E4337D11C5"
+    },
+    {
+      "name": "deprecation-and-migration",
+      "path": "skills/deprecation-and-migration",
+      "description": "---",
+      "skill_md_sha256": "6A624F942E09C69863A4219B9BD5D56975026B67B0C70BC83385FFD2120B6142"
+    },
+    {
+      "name": "devops-engineer",
+      "path": "skills/devops-engineer",
+      "description": "---",
+      "skill_md_sha256": "315A29976E150EEA90F1F872E4973FD8C394ECD3E5ADBC519A16F0BA8F6393D4"
+    },
+    {
+      "name": "django-expert",
+      "path": "skills/django-expert",
+      "description": "---",
+      "skill_md_sha256": "5C116B6AF3A299C9CB92138BE3A0FB6CFD7F4D269984C6A36EFD03F7ACB38322"
+    },
+    {
+      "name": "django-storages-s3",
+      "path": "skills/django-storages-s3",
+      "description": "---",
+      "skill_md_sha256": "928999B1D190460AAF797A2D03EF400AAD4457B35B61CEF42106B7C3B5F212BA"
+    },
+    {
+      "name": "documentation-and-adrs",
+      "path": "skills/documentation-and-adrs",
+      "description": "---",
+      "skill_md_sha256": "87AE44A0C7BB3EEFC2131A9D11CAABCC14E4D8DCB27D66A3A675551EE2CE1671"
+    },
+    {
+      "name": "dotnet-core-expert",
+      "path": "skills/dotnet-core-expert",
+      "description": "---",
+      "skill_md_sha256": "C754F55CED9A4776B4D1F543A91FA74D771B6B539E527C3648E103E0B239E1EB"
+    },
+    {
+      "name": "doubt-driven-development",
+      "path": "skills/doubt-driven-development",
+      "description": "---",
+      "skill_md_sha256": "6FA1FCD8420C28DAF7E53C5B08B0F20B907911EFD2A6D9BCE0B9740DA20A4008"
+    },
+    {
+      "name": "embedded-systems",
+      "path": "skills/embedded-systems",
+      "description": "---",
+      "skill_md_sha256": "43EF9F418A2C573F53FE401FB9CEA8E2F82378033FA8939165770A6A145DDC58"
+    },
+    {
+      "name": "fastapi-expert",
+      "path": "skills/fastapi-expert",
+      "description": "---",
+      "skill_md_sha256": "FB11B40659E4A1BE1B230786FE00F5892BFB72DB499E7DDA6C40A99E2CDCC78B"
+    },
+    {
+      "name": "feature-forge",
+      "path": "skills/feature-forge",
+      "description": "---",
+      "skill_md_sha256": "5AF2C3FB5F9946F61C893F6105B6BAF1A58A02D32E00F8C75C06C7FA2C80AF46"
+    },
+    {
+      "name": "fine-tuning-expert",
+      "path": "skills/fine-tuning-expert",
+      "description": "---",
+      "skill_md_sha256": "FA27B1A369B1EBEE2BD407796F28A9E97E2FD266AB5B37AAE16635FA6A79862C"
+    },
+    {
+      "name": "flutter-expert",
+      "path": "skills/flutter-expert",
+      "description": "---",
+      "skill_md_sha256": "512CDD2730DD937ABA7F993ADDF813195C708E361CDE31252C35AAB3678B7069"
+    },
+    {
+      "name": "frontend-ui-engineering",
+      "path": "skills/frontend-ui-engineering",
+      "description": "---",
+      "skill_md_sha256": "2B74AC4862BE3902EC918DCEAC9366A6FE83B9E003601C0DEAF6BE09C1766ACA"
+    },
+    {
+      "name": "fullstack-guardian",
+      "path": "skills/fullstack-guardian",
+      "description": "---",
+      "skill_md_sha256": "BA255A017ED411ABA245494911EAF991423B2B894854A154BAB3453DCE2BEEC4"
+    },
+    {
+      "name": "game-developer",
+      "path": "skills/game-developer",
+      "description": "---",
+      "skill_md_sha256": "E229306A0F7C8B58679DBBE186007C7E5DFA24BB21B3EDC6EB27B385425CAF4A"
+    },
+    {
+      "name": "git-workflow-and-versioning",
+      "path": "skills/git-workflow-and-versioning",
+      "description": "---",
+      "skill_md_sha256": "B7465D187935C52546D39FDC7BD6AC36D94EDA25A9500EF8C18B767D2EB116EA"
+    },
+    {
+      "name": "golang-pro",
+      "path": "skills/golang-pro",
+      "description": "---",
+      "skill_md_sha256": "6AE2C5BFCDEE4D14BC2BA25E2D55727D92DFF7EC47D2BCA113A5A465AC50C1ED"
+    },
+    {
+      "name": "graphql-architect",
+      "path": "skills/graphql-architect",
+      "description": "---",
+      "skill_md_sha256": "16A0D7A3E238EF484544DB0F2E8755C6547D8EC033C187045916074F12D55EE5"
+    },
+    {
+      "name": "idea-refine",
+      "path": "skills/idea-refine",
+      "description": "---",
+      "skill_md_sha256": "79E773058963ADC7646B0115B4F8A4AFC974C5FF95843E4EF1CAFFF3CB51899E"
+    },
+    {
+      "name": "incremental-implementation",
+      "path": "skills/incremental-implementation",
+      "description": "---",
+      "skill_md_sha256": "DF66536610071727FEAE1CA95F3C391C248AD828041750CCD3699CCE763AA00B"
+    },
+    {
+      "name": "interview-me",
+      "path": "skills/interview-me",
+      "description": "---",
+      "skill_md_sha256": "1D94741D10D2C826CD0C191AEA3981EE94C8ABB27EF2A166F6A372117D06448F"
+    },
+    {
+      "name": "java-architect",
+      "path": "skills/java-architect",
+      "description": "---",
+      "skill_md_sha256": "AFBA0FBEFCEA621809F8E70526204D3C50A8D47C82E7EF97BA22CC59C919BC74"
+    },
+    {
+      "name": "javascript-pro",
+      "path": "skills/javascript-pro",
+      "description": "---",
+      "skill_md_sha256": "104B9103D6FF2359AACC7B37120268221F853E6B2110FDE78076CDE500AFB130"
+    },
+    {
+      "name": "kotlin-specialist",
+      "path": "skills/kotlin-specialist",
+      "description": "---",
+      "skill_md_sha256": "7965C5587FF42FD97570001381A56EF509449CFA71B90B15DA8A17BE17C441B6"
+    },
+    {
+      "name": "kubernetes-specialist",
+      "path": "skills/kubernetes-specialist",
+      "description": "---",
+      "skill_md_sha256": "7633C22D9D7A2A19B91F57966D8B3995C9E86ADE02B36485A54C97242454900D"
+    },
+    {
+      "name": "laravel-specialist",
+      "path": "skills/laravel-specialist",
+      "description": "---",
+      "skill_md_sha256": "864A7DF94E42C43CEBC038B34192448891B2A6466E8D4DAF379BCA41A74249F7"
+    },
+    {
+      "name": "legacy-modernizer",
+      "path": "skills/legacy-modernizer",
+      "description": "---",
+      "skill_md_sha256": "394E9BC11B7F9A1CB94FEB14ED204C29F7967415665C6A2484BBD693E89E97FB"
+    },
+    {
+      "name": "mcp-developer",
+      "path": "skills/mcp-developer",
+      "description": "---",
+      "skill_md_sha256": "9C8D7427820769FA324651AE40764065EE34F0328CA6638C90C05524C19E8F3D"
+    },
+    {
+      "name": "microservices-architect",
+      "path": "skills/microservices-architect",
+      "description": "---",
+      "skill_md_sha256": "020048119AC81B9D4B4A23FC9272502FA71A89A476B628E2ADAC38FFD17EFE26"
+    },
+    {
+      "name": "ml-pipeline",
+      "path": "skills/ml-pipeline",
+      "description": "---",
+      "skill_md_sha256": "76E40A5B127D1ADC8AB0FF2536A6AE36701B60F3F2E8B590B911A721427AE1CB"
+    },
+    {
+      "name": "monitoring-expert",
+      "path": "skills/monitoring-expert",
+      "description": "---",
+      "skill_md_sha256": "E6D70C6D1DD19F6BCC566023A043FB572DF7BF2E1641175E604DEC6145131258"
+    },
+    {
+      "name": "navigators",
+      "path": "skills/navigators",
+      "description": "---",
+      "skill_md_sha256": "254A283863EB8D2360106545873E8FAF279F06DF20CF9237E182B2C42522C69D"
+    },
+    {
+      "name": "nestjs-expert",
+      "path": "skills/nestjs-expert",
+      "description": "---",
+      "skill_md_sha256": "4934EF1A0DA37037208616001A3ECC92F5544763936F3B052FE152F13DC6894A"
+    },
+    {
+      "name": "nextjs-developer",
+      "path": "skills/nextjs-developer",
+      "description": "---",
+      "skill_md_sha256": "D03157DA85B056F92F4979115FC576805CB9EE615F56DF937959997FDA7AA7D5"
+    },
+    {
+      "name": "observability-and-instrumentation",
+      "path": "skills/observability-and-instrumentation",
+      "description": "---",
+      "skill_md_sha256": "E7FCB0820306D46268DE9594D676AD98E35040858926C412B7000FAA52A61F87"
+    },
+    {
+      "name": "pandas-pro",
+      "path": "skills/pandas-pro",
+      "description": "---",
+      "skill_md_sha256": "4764C7B15CEAF47FC62B4BFD58BB9AD536CB38EACC8A8E10C73475D23B60FA11"
+    },
+    {
+      "name": "performance-optimization",
+      "path": "skills/performance-optimization",
+      "description": "---",
+      "skill_md_sha256": "00694D0C69BBDE674D0E39DE24052D90AFEA32D9FEF9553EAEE21A50A7E9B8CF"
+    },
+    {
+      "name": "php-pro",
+      "path": "skills/php-pro",
+      "description": "---",
+      "skill_md_sha256": "CB3BAAF21F699CA0F3FBA0387E7AF161F14BFA2F6BF8D9676DB85D7BCC5D966B"
+    },
+    {
+      "name": "planning-and-task-breakdown",
+      "path": "skills/planning-and-task-breakdown",
+      "description": "---",
+      "skill_md_sha256": "ED0F90CC5951DDD4BCAB7F871F64EFEC93A49AF9279EF93BC470DA77AD8DA3F7"
+    },
+    {
+      "name": "playwright-expert",
+      "path": "skills/playwright-expert",
+      "description": "---",
+      "skill_md_sha256": "8E5603C8742A86D77C867CB5865AEB88277AA8F25BF19F5C48A0E3990E807047"
+    },
+    {
+      "name": "postgres-pro",
+      "path": "skills/postgres-pro",
+      "description": "---",
+      "skill_md_sha256": "45FCCB9FE482EBF446A3A99457F9578C068F5F4AF7C14F127F15897E39ED6964"
+    },
+    {
+      "name": "prompt-engineer",
+      "path": "skills/prompt-engineer",
+      "description": "---",
+      "skill_md_sha256": "65E8C150BA0B9EE0B671CA9203854D0AD7940A9F76C2BE7CC7F50005469AE925"
+    },
+    {
+      "name": "python-pro",
+      "path": "skills/python-pro",
+      "description": "---",
+      "skill_md_sha256": "B6183E3B4289C51B9B7F5E619FA2DA492E587652BF659F5EC7C86252C685D662"
+    },
+    {
+      "name": "qa-check-agent",
+      "path": "skills/qa-check-agent",
+      "description": "---",
+      "skill_md_sha256": "6B670D1BCC6D527A143EF3D31C3E27BEA59FCDC703709DB4FE0B25D6C3ADCDF3"
+    },
+    {
+      "name": "rag-architect",
+      "path": "skills/rag-architect",
+      "description": "---",
+      "skill_md_sha256": "7A67E11A9CBC4E8DC789018ED0E8F99345FB78B99ABF3B230DF49B5CD0157C06"
+    },
+    {
+      "name": "rails-expert",
+      "path": "skills/rails-expert",
+      "description": "---",
+      "skill_md_sha256": "A4E86071FBD4A47B6BD2F3DBC3260C71926067036DC67D974568CAA2A90A7B89"
+    },
+    {
+      "name": "react-expert",
+      "path": "skills/react-expert",
+      "description": "---",
+      "skill_md_sha256": "A4E782FC5812F63FB585EBB89254E3EA9704E9FD53B5A89D13599AF6725F6FE2"
+    },
+    {
+      "name": "react-native-expert",
+      "path": "skills/react-native-expert",
+      "description": "---",
+      "skill_md_sha256": "00940443B09FCE4ACBC1A46519FC35704CCAAD20509F0C0F2A4276A9A4CB21B6"
+    },
+    {
+      "name": "rust-engineer",
+      "path": "skills/rust-engineer",
+      "description": "---",
+      "skill_md_sha256": "261CB535487D45B98D7015348694278799871F1FE524A7DF4B643AD1547B1860"
+    },
+    {
+      "name": "salesforce-developer",
+      "path": "skills/salesforce-developer",
+      "description": "---",
+      "skill_md_sha256": "4DBBCD901DBB3581569CC3762356CF1AF6BE88C6932965782D6293D7EB3C6411"
+    },
+    {
+      "name": "secure-code-guardian",
+      "path": "skills/secure-code-guardian",
+      "description": "---",
+      "skill_md_sha256": "67501125943FA1B88B1630C8D410EB5254BC8A9EE9C305BE9DCCF84438A934E4"
+    },
+    {
+      "name": "security-and-hardening",
+      "path": "skills/security-and-hardening",
+      "description": "---",
+      "skill_md_sha256": "4AA7A433A0A8042F47197F05893343BD9D1CC02A9179537EF3437C05C49B385D"
+    },
+    {
+      "name": "security-reviewer",
+      "path": "skills/security-reviewer",
+      "description": "---",
+      "skill_md_sha256": "5858348902F08A618CDA837D479C442138B24A34A80893295AB589D103E4FF09"
+    },
+    {
+      "name": "shipping-and-launch",
+      "path": "skills/shipping-and-launch",
+      "description": "---",
+      "skill_md_sha256": "AF610CF4892DB7EAB2E91C899E33FEBA90E1000BAC4528B2F8DDE930816AC125"
+    },
+    {
+      "name": "shopify-expert",
+      "path": "skills/shopify-expert",
+      "description": "---",
+      "skill_md_sha256": "06AB45BD47C328A470836238AC257D5872A23E47C1478B05E688D63FFF99E2D8"
+    },
+    {
+      "name": "source-driven-development",
+      "path": "skills/source-driven-development",
+      "description": "---",
+      "skill_md_sha256": "C59FAF851377F0EEDA45306398D16EB96D77AB1C2FD3E1A7FB58E9A0AF33C1E9"
+    },
+    {
+      "name": "spark-engineer",
+      "path": "skills/spark-engineer",
+      "description": "---",
+      "skill_md_sha256": "B8B52C666587FD9C8D1841FD5FA8A732497FA6140F37FA15A7C3E91A5A33A5A7"
+    },
+    {
+      "name": "spec-driven-development",
+      "path": "skills/spec-driven-development",
+      "description": "---",
+      "skill_md_sha256": "89411B435FC9F45CEC0DD7437419E6BAC64B7DDF43108791978647D453010A61"
+    },
+    {
+      "name": "spec-miner",
+      "path": "skills/spec-miner",
+      "description": "---",
+      "skill_md_sha256": "51BC6B96404E86E1605A17769DA74A6CF7346A5D9E2323373D1682D637E9427B"
+    },
+    {
+      "name": "spring-boot-engineer",
+      "path": "skills/spring-boot-engineer",
+      "description": "---",
+      "skill_md_sha256": "74F8CA9BFE5A8B1EE41EDD14C481F1CDC2B5698D409A9574B3A39FB77425F794"
+    },
+    {
+      "name": "sql-pro",
+      "path": "skills/sql-pro",
+      "description": "---",
+      "skill_md_sha256": "A96E2B467866A8E06AB63A8A2ACAC9E17C4077646C9058241AFC466F55A8F234"
+    },
+    {
+      "name": "sre-engineer",
+      "path": "skills/sre-engineer",
+      "description": "---",
+      "skill_md_sha256": "C1D78890F232E69448EA7BADBE82DB3F63F3DA579444A951DD9BEC1BD9B4D5E5"
+    },
+    {
+      "name": "stos-product-ux",
+      "path": "skills/stos-product-ux",
+      "description": "---",
+      "skill_md_sha256": "CAB5034B3202D0C7A6EDA022AE7AE616BF17323D767AD9CA4AEB92CB0886FDC2"
+    },
+    {
+      "name": "swift-expert",
+      "path": "skills/swift-expert",
+      "description": "---",
+      "skill_md_sha256": "AF18A3963CCC67422651560AA4C3A52CACB200864263426A9B6238C01EABEA91"
+    },
+    {
+      "name": "terraform-engineer",
+      "path": "skills/terraform-engineer",
+      "description": "---",
+      "skill_md_sha256": "999DF09C64240E27EBEC2CBDCFAE8B969B899EE1F5063405BEAE1DE79FDBC37E"
+    },
+    {
+      "name": "test-driven-development",
+      "path": "skills/test-driven-development",
+      "description": "---",
+      "skill_md_sha256": "7C0C6AC057C19D7F8BE65D9F49C3A638703B868F4625C78B70DA5439D5D74FCA"
+    },
+    {
+      "name": "test-master",
+      "path": "skills/test-master",
+      "description": "---",
+      "skill_md_sha256": "5DC801349CE74FC94FB5F46C465C693D7BBACC7A41C503C40A1D52651B85D697"
+    },
+    {
+      "name": "the-fool",
+      "path": "skills/the-fool",
+      "description": "---",
+      "skill_md_sha256": "E57F92FE9FF37867E79CBED440938007262DD66D9182BB4073FD8246DA31AEC6"
+    },
+    {
+      "name": "typescript-pro",
+      "path": "skills/typescript-pro",
+      "description": "---",
+      "skill_md_sha256": "F09540F250A7A99F030F8E792F0F301B0923B69C7AAE689E2B27C8A69E3C2C5A"
+    },
+    {
+      "name": "ui-ux-expert",
+      "path": "skills/ui-ux-expert",
+      "description": "---",
+      "skill_md_sha256": "9B9BB76997CB76CDB68E7DD1439534BF07A9B34570063BE3B9963A9431589B43"
+    },
+    {
+      "name": "ui-ux-pro-max",
+      "path": "skills/ui-ux-pro-max",
+      "description": "---",
+      "skill_md_sha256": "E5BAF9400D4347E5ED3EB1F6B99CD0B9BA545B8B0E507AABB2B87397BBF73EA1"
+    },
+    {
+      "name": "using-agent-skills",
+      "path": "skills/using-agent-skills",
+      "description": "---",
+      "skill_md_sha256": "30787EF2C77BF1A4729FFFED0F6523BA6FCBE81BDC436B36371B78C21394D3C3"
+    },
+    {
+      "name": "vue-expert",
+      "path": "skills/vue-expert",
+      "description": "---",
+      "skill_md_sha256": "95A36BC7B4C0C2E059D04D8372D3512A393B95A3CC37E78ED917998711369773"
+    },
+    {
+      "name": "vue-expert-js",
+      "path": "skills/vue-expert-js",
+      "description": "---",
+      "skill_md_sha256": "8D9BCA349405F44C0A3EF535061F9174C199664993D64834B77CABC76AE8FBF1"
+    },
+    {
+      "name": "websocket-engineer",
+      "path": "skills/websocket-engineer",
+      "description": "---",
+      "skill_md_sha256": "AAE2F9BE570739F62AA364DE21FF94E6E3FFFFF064376551ED9F209B980E7F4E"
+    },
+    {
+      "name": "wordpress-pro",
+      "path": "skills/wordpress-pro",
+      "description": "---",
+      "skill_md_sha256": "10827006C8C706601ABC7C14941F2739DB3ADFA3C0F1A545E8915D71BD4F72BA"
+    }
+  ]
+}

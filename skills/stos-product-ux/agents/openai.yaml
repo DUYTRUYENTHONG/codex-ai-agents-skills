@@ -1,0 +1,3 @@
+display_name: STOS Product UX
+short_description: Design and ship STOS user-centered portfolio UX, CMS, templates, and funnel flows without layout regressions.
+default_prompt: Use $stos-product-ux to improve STOS UX/UI, visual CMS, templates, public portfolio, or funnel user flow with mobile-first guardrails.

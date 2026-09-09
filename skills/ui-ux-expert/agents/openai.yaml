@@ -1,0 +1,6 @@
+interface:
+  display_name: "UI/UX Expert"
+  short_description: "Design usable interfaces and verify real user actions"
+  default_prompt: "Use $ui-ux-expert to inspect this interface, improve its usability and visual design within scope, and verify the actual user journey."
+policy:
+  allow_implicit_invocation: true
