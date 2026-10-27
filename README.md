@@ -109,3 +109,37 @@ Total: 102
 Source: `C:\Users\CROSSIAN\.codex\skills`
 
 .system and standard skills are included as source of truth for distribution.
+
+## Updates
+
+The local Codex skills directory is the source for the skills already listed in
+`manifest.json`. A weekly Codex automation checks upstream changes for the
+provenance-pinned UI/UX Pro Max skill, then checks **every packaged skill** for
+local changes. It validates and publishes accepted changes to this repository.
+Only `ui-ux-pro-max` currently has a documented external upstream; other skills
+are synced from their local installed copies, not guessed from similarly named
+GitHub repositories.
+
+Run the same package check manually (Node.js 18+):
+
+```sh
+node scripts/sync-skills.mjs --check
+node --test scripts/sync-skills.test.mjs
+```
+
+`--check` reports differences without writes (exit 2 if updates are available).
+After reviewing the diff and provenance, run `node scripts/sync-skills.mjs
+--apply`, validate changed skills, and commit/push. Set `CODEX_SKILLS_ROOT` or
+pass `--source /path/to/skills` to use a non-default installation.
+
+For `ui-ux-pro-max`, run `scripts/validate_data.py` and search/design-system
+smoke checks in the packaged skill. Its complete upstream unit suite requires
+the pinned full checkout named in `skills/ui-ux-pro-max/UPSTREAM.md`; some tests
+refer to repository-level maintenance scripts that are not part of this package.
+
+The sync refuses missing skills, unexpected deletions, symlinks, sensitive
+filenames, and high-confidence secret patterns. It never adds newly installed
+skills or updates Codex-managed `.system` content automatically. New skills need
+an explicit public-license and privacy review before adding them to the manifest.
+Scheduled updates are best-effort when the local Codex automation can run; this
+repo cannot read changes on a private machine from GitHub Actions alone.
