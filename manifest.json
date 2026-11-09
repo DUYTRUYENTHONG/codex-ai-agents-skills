@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T02:40:21.516Z",
+  "generated_at": "2026-11-09T04:14:22.485Z",
   "source_root": "local Codex skills root (CODEX_SKILLS_ROOT or --source)",
   "included_count": 102,
   "included_skills": [
@@ -577,7 +577,7 @@
       "name": "ui-ux-pro-max",
       "path": "skills/ui-ux-pro-max",
       "description": "---",
-      "skill_md_sha256": "CFB72F4CE4E6A16283EE2E1797D8B52079D2B4464CEF384B81CE29DE7FF0AB9E"
+      "skill_md_sha256": "56514B18FE72BB9F73C08390D7D778A4D347E3B363A1479C1BE95760766861D3"
     },
     {
       "name": "using-agent-skills",
